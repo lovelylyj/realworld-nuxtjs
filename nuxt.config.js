@@ -56,6 +56,10 @@
         }
     },
 
+    server: {
+        port: 3389,
+    },
+
     // 注册插件     
     plugins: [
         '~/plugins/request.js',
