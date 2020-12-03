@@ -55,7 +55,6 @@ npm run dev
 
 
 ### TODO
-- cd02bbb55cce56ce55df876a2fb1da71f43f7f4b
 - 删除文章
 - 删除评论
 - 发布文章时候选择填写tag有问题
